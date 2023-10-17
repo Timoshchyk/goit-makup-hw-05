@@ -94,6 +94,10 @@ button {
     overflow: hidden;
 }
 
+input{
+    font-family: inherit;
+}
+
 
 /*=================HEADER======================*/
 
@@ -904,6 +908,5 @@ background-color: #31d0aa;
     border-radius: 4px;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
 
 /*=====================================/*
